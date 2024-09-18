@@ -19,5 +19,4 @@ Github hesabında açtığınız ödevde kendi çalışma alanınınızı oluşt
 <img width="1920" alt="Git_colone_repository" src="https://github.com/user-attachments/assets/5dd48cf9-0a00-4575-ba06-69bb7b625198">
 
 
-
 Bu hafta yapacağımız çalışmalar
